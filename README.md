@@ -1,1 +1,5 @@
-# PPC-COMP-2014-1-TAI_III
+# Trabalho Acadêmico Integrado III
+
+Repositório de documentos e artefatos do trabalho da disciplina.
+
+### Alterar o documento: nome do produto e participantes do time.
